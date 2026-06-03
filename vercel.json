@@ -5,7 +5,7 @@
     "rewrites": [
         {
             "source": "/(.*)",
-            "destination": "/index.html"
+            "destination": "/UJIKOM_GREEN_HOUSE.html"
         }
     ]
 }
